@@ -1,0 +1,7 @@
+c:\users\pcuser\source\repos\NamedPipeClient45\NamedPipeClient45\bin\Release\NamedPipeClient45.exe.config
+c:\users\pcuser\source\repos\NamedPipeClient45\NamedPipeClient45\bin\Release\NamedPipeClient45.exe
+c:\users\pcuser\source\repos\NamedPipeClient45\NamedPipeClient45\bin\Release\NamedPipeClient45.pdb
+c:\users\pcuser\source\repos\NamedPipeClient45\NamedPipeClient45\obj\Release\NamedPipeClient45.csprojAssemblyReference.cache
+c:\users\pcuser\source\repos\NamedPipeClient45\NamedPipeClient45\obj\Release\NamedPipeClient45.csproj.CoreCompileInputs.cache
+c:\users\pcuser\source\repos\NamedPipeClient45\NamedPipeClient45\obj\Release\NamedPipeClient45.exe
+c:\users\pcuser\source\repos\NamedPipeClient45\NamedPipeClient45\obj\Release\NamedPipeClient45.pdb
